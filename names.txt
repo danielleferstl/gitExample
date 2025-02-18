@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,dferstl,Ferstl,Danielle
 employee,jbrottier,Jake,Rottier
-role,NetID,LastName,FirstName
+
